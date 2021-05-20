@@ -136,7 +136,7 @@ const degrees = {
       title: "Chung-Ang University",
       subtitle: "",
       logo_path: "cau-logo.png",
-      alt_name: "EpitechLogo",
+      alt_name: "CAULogo",
       duration: "2020 - 2021",
       descriptions: [
         "⚡ Année à l'étranger dans le cadre de mon cursus Epitech.",

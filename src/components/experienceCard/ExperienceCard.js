@@ -16,7 +16,7 @@ class ExperienceCard extends Component {
                 maxHeight: "100%",
                 transform: "scale(50%, 50%)",
               }}
-              src={require(`../../assests/images/${experience.logo_path}`)}
+              src={require(`../../assests/images/${experience.logo_path}`).default}
               alt={experience.alt_name}
             />
           </div>
