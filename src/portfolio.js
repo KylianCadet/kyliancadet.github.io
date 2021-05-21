@@ -194,7 +194,7 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Projets",
   description:
     "Mes projets personnels et ceux réalisés dans le cadre de mes études",
   avatar_image_path: "projects_image.svg",
@@ -225,7 +225,19 @@ const projects = {
           "iconifyClass": "logos-python"
         }, {
           "name": "Docker",
-          "iconifyClass": "logos-docker"
+          "iconifyClass": "logos:docker-icon"
+        }
+      ]
+    },
+    {
+      "name": "EpiCovid-dashboard",
+      "createdAt": "2020-04-06T00:00:00Z",
+      "url": "https://github.com/EpiCovid/EpiCovid-dashboard",
+      "description": "This project consists of the exploitation and visualization in real time of data concerning the Covid-19 pandemic throughout the world.",
+      "languages": [
+        {
+          "name": "Vue.js",
+          "iconifyClass": "vscode-icons:file-type-vue"
         }
       ]
     },
@@ -257,7 +269,7 @@ const projects = {
         },
         {
           "name": "Docker",
-          "iconifyClass": "logos-docker"
+          "iconifyClass": "logos:docker-icon"
         }
       ]
     }
