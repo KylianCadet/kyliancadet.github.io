@@ -272,6 +272,18 @@ const projects = {
           "iconifyClass": "logos:docker-icon"
         }
       ]
+    },
+    {
+      "name": "epitech-epicture",
+      "createdAt": "2020-10-02T00:00:00Z",
+      "url": "https://github.com/KylianCadet/epitech-epicture",
+      "description": "The goal of this project is to use and implement an online photo sharing API platforms : Imgur",
+      "languages": [
+        {
+          "name": "React Native",
+          "iconifyClass": "vscode-icons:file-type-reacttemplate"
+        }
+      ]
     }
   ]
 }
