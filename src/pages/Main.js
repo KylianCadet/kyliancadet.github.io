@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, HashRouter } from "react-router-dom";
+import { Route, BrowserRouter } from "react-router-dom";
 import Home from "./home/Home";
 import Education from "./education/Education";
 import Experience from "./experience/Experience";
@@ -11,7 +11,7 @@ export default class Main extends Component {
     const theme = this.props.theme;
     return (
       <div>
-        <HashRouter basename="/">
+        <BrowserRouter basename="/">
           <Route
             path="/"
             exact
@@ -45,7 +45,7 @@ export default class Main extends Component {
               <Project {...props} theme={theme} />
             )}
           />
-        </HashRouter>
+        </BrowserRouter>
       </div>
     );
   }
