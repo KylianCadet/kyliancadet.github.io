@@ -2,7 +2,7 @@
 const seo = {
   title: "Portfolio de Kylian",
   description:
-    "Étudiant en 5ème année à l'EPITECH Paris, passionné par la culture de l'informatique et par les nouvelles technologies.",
+    "Étudiant en 4ème année à l'EPITECH Paris, passionné par la culture de l'informatique et par les nouvelles technologies.",
   og: {
     title: "Portfolio de Kylian",
     type: "website",
@@ -15,7 +15,7 @@ const greeting = {
   logo_name: "KylianCadet",
   nickname: null,
   subTitle:
-    "Étudiant en 5ème année à l'Epitech Paris, passionné par l'informatique et par la culture numérique.",
+    "Étudiant en 4ème année à l'Epitech Paris, passionné par l'informatique et par la culture numérique.",
   resumeLink:
     "https://drive.google.com/file/d/1q6UtMRplty3iIhfIx0qHIDXvDaxETcnv/view?usp=sharing",
 };
