@@ -2,7 +2,7 @@
 const seo = {
   title: "Portfolio de Kylian",
   description:
-    "Étudiant en 4ème année à l'EPITECH Paris, passionné par la culture de l'informatique et par les nouvelles technologies.",
+    "Étudiant en 5ème année à l'EPITECH Paris, passionné par la culture de l'informatique et par les nouvelles technologies.",
   og: {
     title: "Portfolio de Kylian",
     type: "website",
